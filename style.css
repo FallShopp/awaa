@@ -1006,7 +1006,7 @@ width:260px;height:360px;object-fit:cover;border-radius:18px;
 .flowers{
     position: fixed !important;
     left: 50% !important;
-    bottom: 40vh !important;
+    bottom: 80vh !important;
     transform: translateX(-50%) scale(0.7) !important;
     transform-origin: bottom center !important;
 }
